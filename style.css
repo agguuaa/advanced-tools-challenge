@@ -86,3 +86,11 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+
+.mt-5 {
+  padding-bottom: 2rem;
+}
+
+container {
+  width: 100%;
+}
